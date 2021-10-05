@@ -39,11 +39,11 @@ The analysis of the election show that:
   
 
 ## Challenge Overview
-### Overview of Election Audit
+#### Overview of Election Audit
 
-The purpose of this election audit analysis is to determine the winning candidate and the highest county voter turnout during a local congressional election using Python and Video Studio Code.  A breakdown of the number of votes for each county and candidate were generated.  Thus, the vote percentage for each county and candidate were then calculated and documented.
+The purpose of this election audit analysis is to determine the winning candidate and the highest county voter turnout during a local congressional election using Python and Video Studio Code.  A breakdown of the number of votes for each county and candidate were generated.  Next, the voting percentage for each county and candidate were then calculated and documented.
 
-### Election-Audit Results
+#### Election-Audit Results
 
 The results of the election analysis are listed below:
 
@@ -69,6 +69,8 @@ The results of the election analysis are listed below:
     
 •	The winner of the election was Diana DeGette, who received 73.8% of the total vote and 272,892 number of votes.
 
+![election_analysis_snapshot](https://user-images.githubusercontent.com/89353378/135949702-2c9ede23-75f3-4117-8d4e-79d2d49ee2d0.PNG)
+
 ## Challenge Summary
-### Election-Audit Summary
-The coding script used for this election audit can be modified and reformatted for other congressional elections in other states.  One part of the code that requires modification would be the path indicating the location of where to pull the raw data of election results. If additional data is recorded in the election results raw data, such as the city of each registered voter, then additional codes can be added to calculate the highest and lowest voter turnout for each city.
+#### Election-Audit Summary
+The coding script used for this election audit can be modified and reformatted for various future elections.  One part of the code that would require modification is the path indicating the location of where to pull the raw data of election results.  This is because raw data can be saved in a multitude of different datatbases.  If additional data is recorded in the election results raw data, such as the city of each registered voter, then additional codes can be added to the original script to calculate the highest and lowest voter turnout for each city.
